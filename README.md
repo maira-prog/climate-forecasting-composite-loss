@@ -1,6 +1,6 @@
 # Trend-Aware Neural Networks for Climate Forecasting
 
-This repository contains the implementation of the composite loss function for weather forecasting presented in:
+This repository contains the implementation of the GRU and TCN models with composite loss function for weather forecasting presented in:
 
 > **Improving Forecasts of Climatic Variables with Noise or Sharp Transitions through Trend-Aware Neural Networks**
 > 
