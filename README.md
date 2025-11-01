@@ -6,7 +6,6 @@ This repository contains the implementation of the composite loss function for w
 > 
 > Maira Aracne, Luciano Caroprese, Camilla Lops, Tommaso Ruga, Ester Zumpano, Sergio Montelpare
 > 
-> *Environmental Modelling and Software* (2025)
 
 ## Overview
 
