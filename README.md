@@ -110,3 +110,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions regarding the code or methodology:
 - Luciano Caroprese: luciano.caroprese@unich.it
+- Maira Aracne: m.aracne@unidav.it
