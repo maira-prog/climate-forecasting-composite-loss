@@ -41,7 +41,6 @@ See `requirements.txt` for complete dependencies.
 └── README.md
 ```
 
-## Usage
 
 ### Setup
 
@@ -89,6 +88,8 @@ See `requirements.txt` for complete dependencies.
   - Forecast wind speed and direction
   - Uses data from Site 3 (dataset_0) wind station
   - 3-day forecast horizon
+
+ **Note:** The paper focuses on 3-day forecasts. The code can also produce 1-day and 2-day forecasts for comparison purposes.
 
 ## Key Features
 
