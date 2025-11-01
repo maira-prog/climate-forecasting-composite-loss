@@ -13,14 +13,12 @@ The repository provides Google Colab notebooks implementing GRU and TCN models w
 
 ## What This Repository Provides
 
-- ✅ Complete training code
-- ✅ Model architectures (GRU and TCN)
-- ✅ Composite loss function implementation
-- ✅ Hyperparameters used in the paper
-- ❌ Pre-trained models (not provided - data is confidential)
-- ❌ Datasets (not provided - see Data Availability)
+-  Complete training code
+-  Model architectures (GRU and TCN)
+-  Composite loss function implementation
+-  Hyperparameters used in the paper
 
-Researchers can train models on their own meteorological data using this code.
+The repository doesn't provide the datasets descripted in the paper - see Data Availability. Researchers can train models on their own meteorological data using this code.
 
 ## Requirements
 
