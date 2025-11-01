@@ -24,7 +24,7 @@ The repository doesn't provide the datasets described in the paper - see Data Av
 
 - Python 3.11.11
 - PyTorch 2.5.1+cu121
-- CUDA-compatible GPU (Tesla T4 or equivalent - provided by Google Colab)
+- CUDA-compatible GPU 
 - Google Drive account
 
 See `requirements.txt` for complete dependencies.
