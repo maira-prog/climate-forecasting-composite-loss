@@ -80,13 +80,13 @@ See `requirements.txt` for complete dependencies.
 ### Notebooks Description
 
 - **GRU_solarStation.ipynb / TCN_solarStation.ipynb**: 
-  - Forecast GHI, temperature, atmospheric pressure, and relative humidity
+  - Forecasts GHI, temperature, atmospheric pressure and relative humidity
   - Uses data from Casaccia (dataset_0) and Ottana (dataset_1) meteorological stations
   - 3-day forecast horizon
 
 - **GRU_windStation.ipynb / TCN_windStation.ipynb**:
-  - Forecast wind speed and direction
-  - Uses data from Site 3 (dataset_0) wind station
+  - Forecasts wind speed and direction
+  - Uses data from Site 3 (dataset_0) and wind station
   - 3-day forecast horizon
 
  **Note:** The paper focuses on 3-day forecasts. The code can also produce 1-day and 2-day forecasts for comparison purposes.
