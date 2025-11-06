@@ -13,7 +13,7 @@ The repository provides Google Colab notebooks implementing GRU and TCN models w
 
 ## What This Repository Provides
 
--  Complete training code
+-  Complete code
 -  Model architectures (GRU and TCN)
 -  Composite loss function implementation
 -  Hyperparameters used in the paper
