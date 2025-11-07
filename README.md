@@ -90,7 +90,8 @@ See `requirements.txt` for complete dependencies.
   - 3-day forecast horizon
 
  **Note 1:** The paper focuses on 3-day forecasts. The code can also produce 1-day and 2-day forecasts for comparison purposes.
- **Note 2:** Change the value of the hyperparameter α ∈ [0,1] to test the standard/point-wise loss (α = 0) and composite loss (0 < α < 1).
+ 
+ **Note 2:** Change the value of the hyperparameter α ∈ [0,1] to test the standard/point-wise loss (α = 1), the composite loss (0 < α < 1) or the pure average loss (α = 0).
 
 ## Key Features
 
