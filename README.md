@@ -89,7 +89,8 @@ See `requirements.txt` for complete dependencies.
   - Uses data from Site 3 (dataset_0) and wind station
   - 3-day forecast horizon
 
- **Note:** The paper focuses on 3-day forecasts. The code can also produce 1-day and 2-day forecasts for comparison purposes.
+ **Note 1:** The paper focuses on 3-day forecasts. The code can also produce 1-day and 2-day forecasts for comparison purposes.
+ **Note 2:** Change the value of the hyperparameter α ∈ [0,1] to test the standard/point-wise loss (α = 0) and composite loss (0 < α < 1).
 
 ## Key Features
 
